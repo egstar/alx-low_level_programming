@@ -12,5 +12,7 @@
 	- Create a script to compile c file and get output as csifun
 
 - Task 4
-	- Create an executable file that prints out a string with return(0)
+	- Create an executable file that prints out a string using puts function with return(0)
 
+- Task 5
+	- Create an exectuable file that prints out a string using printf function with return(0)

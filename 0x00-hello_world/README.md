@@ -15,4 +15,7 @@
 	- Create an executable file that prints out a string using puts function with return(0)
 
 - Task 5
-	- Create an exectuable file that prints out a string using printf function with return(0)
+	- Create an executable file that prints out a string using printf function with return(0)
+
+- Task 6
+	- Create an executable file that prints the size of each type of givin types with return (0)

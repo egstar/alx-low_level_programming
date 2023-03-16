@@ -2,7 +2,7 @@
 /**
 	 * main -Function descrtiption
 	 *
-	 * return:  the result of main function,
+	 * return the result of main function,
 	 */
 int main(void)
 {

@@ -1,5 +1,5 @@
 #include <stdio.h>
-/* 
+/*
 * main function description
 */
 int main(void)

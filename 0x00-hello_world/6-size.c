@@ -1,15 +1,6 @@
 #include <stdio.h>
 /**
-	* Printing each variable size
-	*
 	* main function
-	*
-	* Print variables size for 32bit x 64bit:
-	*	char
-	*	int
-	*	long int
-	*	long long int
-	*	float
 	*
 	* Return: (0) -> Success
 	*/

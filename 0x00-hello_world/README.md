@@ -10,3 +10,7 @@
 
 - Task 3
 	- Create a script to compile c file and get output as csifun
+
+- Task 4
+	- Create an executable file that prints out a string with return(0)
+

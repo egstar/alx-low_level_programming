@@ -12,3 +12,6 @@
 
 - Task 4
 	- For loop with if statement to ignore some cases and getting other valid cases
+
+- Task 5
+	- Use while and increment to print increament numbers from 0 to 9

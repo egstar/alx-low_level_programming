@@ -1,0 +1,2 @@
+- Task 0
+	- Use if / else if to get the right output

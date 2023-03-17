@@ -22,3 +22,6 @@
 
 - Task 7
 	- Create an assemble file wit the name of the same file
+
+- Task 8
+	- Print a data using commands other than puts or printf

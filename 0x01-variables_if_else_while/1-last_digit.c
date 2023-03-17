@@ -32,5 +32,6 @@ int main(void)
 		strncat(res, res2, -1);
 	}
 	printf("Last digit of %d is %d %s\n", n , lastn, res);
+
 	return (0);
 }

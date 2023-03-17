@@ -11,27 +11,21 @@ int main(void)
 {
 	int n;
 	int lastn;
-	char res[30] = "";
-	char res1[] = "and is greater than 5";
- 	char res2[] = "and is less than 6 and not 0";
-	char res3[] = "and is 0";
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	lastn = abs(n) % 10;
 	if (lastn > 5)
 	{
-		strncat(res, res1, -1);
+		printf("Last digit of %d is %d and is greater than 5\n", n , lastn);
 	}
 	else if (lastn == 0)
 	{
-		strncat(res, res3, -1);
+		printf("Last digit of %d is %d and is 0\n", n , lastn);
 	}
 	else
 	{
-		strncat(res, res2, -1);
+		printf("Last digit of %d is %d and is less than 6 and not 0\n", n , lastn);
 	}
-	printf("Last digit of %d is %d %s\n", n , lastn, res);
-
 	return (0);
 }

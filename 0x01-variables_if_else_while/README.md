@@ -6,3 +6,6 @@
 
 - Task 2
 	- For loop to print all Alphabits from a to z
+
+- Task 3
+	- For loop to print all Alphabits from a to z comained with from A to Z

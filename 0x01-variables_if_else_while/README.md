@@ -9,3 +9,6 @@
 
 - Task 3
 	- For loop to print all Alphabits from a to z comained with from A to Z
+
+- Task 4
+	- For loop with if statement to ignore some cases and getting other valid cases

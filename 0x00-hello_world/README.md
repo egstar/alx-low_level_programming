@@ -19,3 +19,6 @@
 
 - Task 6
 	- Create an executable file that prints the size of each type of givin types with return (0)
+
+- Task 7
+	- Create an assemble file wit the name of the same file

@@ -24,3 +24,6 @@
 
 - Task 8
 	- Use putchar to comain digits with letters in output
+
+- Task 9
+	- Use repeated putchar to print digits from 0 to 9 separated with ', '

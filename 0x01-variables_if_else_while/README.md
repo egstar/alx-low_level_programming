@@ -33,3 +33,6 @@
 
 - Task 11
 	- Use 3D loop to get the right output of 3 combained numbers
+
+- Task 12
+	- Use 2D loop with separated variables to get the desired output

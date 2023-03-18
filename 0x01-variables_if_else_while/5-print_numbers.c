@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
 	* main - Function Description
 	*
 	* Return: (0) always success

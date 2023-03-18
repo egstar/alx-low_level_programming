@@ -4,12 +4,6 @@
 	*
 	* Return: (0) always success
 	*/
-#include <stdio.h>
-/**
- * main - entry block
- * @void: no argument
- * Return: 0
- **/
 int main(void)
 {
 	int n, i;

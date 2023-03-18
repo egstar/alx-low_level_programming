@@ -29,4 +29,7 @@
 	- Use repeated putchar to print digits from 0 to 9 separated with ', '
 
 - Task 10
-	- Use 2D loop to get the right outputh
+	- Use 2D loop to get the right output of 2 combained numbers
+
+- Task 11
+	- Use 3D loop to get the right output of 3 combained numbers

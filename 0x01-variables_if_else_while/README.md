@@ -27,3 +27,6 @@
 
 - Task 9
 	- Use repeated putchar to print digits from 0 to 9 separated with ', '
+
+- Task 10
+	- Use 2D loop to get the right outputh

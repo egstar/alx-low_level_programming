@@ -21,3 +21,6 @@
 
 - Task 7
 	- Use putchar to print alphabet from z to a
+
+- Task 8
+	- Use putchar to comain digits with letters in output

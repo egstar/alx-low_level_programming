@@ -10,18 +10,22 @@ int main(void)
 
 	for (n = 0; n < 100; n++)
 	{
-		for (i = n + 1; i < 100; n++)
+		for (i = 0; i < 100; i++)
 		{
-			putchar(n / 10 + 48);
-			putchar(n % 10 + 48);
-			putchar(' ');
-			putchar(i / 10 + 48);
-			putchar(i % 10 + 48);
-			if (n != 98 || i != 99)
+			if (i < j)
 			{
-				putchar(',');
+				putchar((n / 10) + 48);
+				putchar((n % 10) + 48);
 				putchar(' ');
+				putchar((i / 10) + 48);
+				putchar((i % 10) + 48);
+				if (n != 98 || i != 99)
+				{
+					putchar(',');
+					putchar(' ');
+				}
 			}
+
 		}
 	}
 	putchar('\n');

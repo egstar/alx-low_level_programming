@@ -15,3 +15,6 @@
 
 - Task 5
 	- Use while and increment to print increament numbers from 0 to 9
+
+- Task 6
+	- Use putchar with numbers output

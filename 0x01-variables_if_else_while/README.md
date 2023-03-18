@@ -18,3 +18,6 @@
 
 - Task 6
 	- Use putchar with numbers output
+
+- Task 7
+	- Use putchar to print alphabet from z to a

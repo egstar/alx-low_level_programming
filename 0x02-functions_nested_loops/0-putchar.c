@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <main.h>
 /**
 	* main - Function description
@@ -7,17 +6,14 @@
 	*/
  int main(void)
 {
-	char c[] = "_putchar";
+	char p[] = "_putchar";
 	int i;
 
 	for (i = 0; i<9; i++)
 	{
-		putchar(c[i]);
-		if (c[i] == '\0')
-		{
-			putchar('\n');
-		}
+		putchar(p[i]);
 	}
+	putchar('\n');
 
 	return (0);
 }

@@ -5,15 +5,14 @@
 	*/
 void print_alphabet_x10(void)
 {
-	char s = 'a';
+	char s;
 	int i;
 
 	for (i = 0; i < 10; i++)
 	{
-		while (s <= 'z')
+		for (s = 'a'; s <= 'z'; s++)
 		{
 			_putchar(s);
-			s++;
 		}
 		_putchar('\n');
 	}

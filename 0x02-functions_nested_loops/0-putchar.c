@@ -1,19 +1,19 @@
-#include <main.h>
+#include"main.h"
 /**
 	* main - Function description
 	*
 	* Return: (0) always success
 	*/
- int main(void)
+int main(void)
 {
 	char p[] = "_putchar";
 	int i;
 
 	for (i = 0; i<9; i++)
 	{
-		putchar(p[i]);
+		_putchar(p[i]);
 	}
-	putchar('\n');
+	_putchar('\n');
 
 	return (0);
 }

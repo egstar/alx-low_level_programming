@@ -1,6 +1,6 @@
 #include"main.h"
 /**
-	* void print_alphabet_x10(void) - Function description
+	* print_alphabet_x10 - Function description
 	*
 	*/
 void print_alphabet_x10(void)

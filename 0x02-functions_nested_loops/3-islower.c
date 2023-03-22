@@ -1,4 +1,4 @@
-#includemain.h
+#include"main.h"
 /**
 	* _islower - Function description
 	*

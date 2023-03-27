@@ -13,3 +13,6 @@
 
 - Task 4
 	- Print reversed string
+
+- Task 5
+	- Reverse a string

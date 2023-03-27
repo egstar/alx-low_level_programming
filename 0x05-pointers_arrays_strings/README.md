@@ -22,3 +22,6 @@
 
 - Task 7
 	- Print half of a string
+
+- Task 8
+	- Print elements of array

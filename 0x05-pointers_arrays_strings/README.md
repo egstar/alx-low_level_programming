@@ -7,3 +7,6 @@
 
 - Task 2
 	- Return length of string
+
+- Task 3
+	- Print string to stdout with new line

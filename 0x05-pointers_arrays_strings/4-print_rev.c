@@ -1,6 +1,6 @@
 #include"main.h"
 /**
-	* _print_rev - Function description
+	* print_rev - Function description
 	*
 	*
 	* @s: Parameter description

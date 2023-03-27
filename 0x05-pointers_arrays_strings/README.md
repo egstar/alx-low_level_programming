@@ -1,4 +1,4 @@
-
+# 0x05-Pointers_arrays_strings
 - Task 0
 	- use pointer with int parameter
 
@@ -10,3 +10,6 @@
 
 - Task 3
 	- Print string to stdout with new line
+
+- Task 4
+	- Print reversed string

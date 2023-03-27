@@ -16,3 +16,6 @@
 
 - Task 5
 	- Reverse a string
+
+- Task 6
+	- Print string chars

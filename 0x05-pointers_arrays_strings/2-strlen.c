@@ -1,6 +1,6 @@
 #include"main.h"
 /**
-	* strlen.c - Function description
+	* _strlen - Function description
 	*
 	* @s: Parameter description
 	*

@@ -1,8 +1,8 @@
 #include"main.h"
 /**
-	* main - Function description
+	* reset_to_98 - Function description
 	*
-	* Return: (0) always success
+	* @n: parameter description
 	*/
 void reset_to_98(int *n)
 {

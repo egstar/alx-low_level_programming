@@ -1,8 +1,7 @@
 #include"main.h"
 /**
-	* 1-swap.c - Function description
+	* swap_int - Function description
 	*
-	* 
 	* @a: Parameter description
 	* @b: Parameter description
 */

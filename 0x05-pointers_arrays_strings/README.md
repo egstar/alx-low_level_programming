@@ -4,3 +4,6 @@
 
 - Task 1
 	- Swap two integer values
+
+- Task 2
+	- Return length of string

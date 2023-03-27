@@ -1,9 +1,9 @@
 #include"main.h"
 /**
-	* 3-puts.c - Function description
+	* _puts - Function description
 	*
 	*
-	* @: Parameter description
+	* @str: Parameter description
 */
 void _puts(char *str)
 {

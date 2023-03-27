@@ -19,3 +19,6 @@
 
 - Task 6
 	- Print string chars
+
+- Task 7
+	- Print half of a string

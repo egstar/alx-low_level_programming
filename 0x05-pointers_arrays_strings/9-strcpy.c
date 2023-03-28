@@ -4,7 +4,7 @@
 	*
 	* @src: Parameter description
 	* @dest: Parameter description
-	* Return a pointer to the dest
+	* Return: a pointer to the dest
 */
 
 char *_strcpy(char *dest, char *src)

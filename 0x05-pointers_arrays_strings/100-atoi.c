@@ -4,7 +4,7 @@
 	*
 	*
 	* @s: Parameter description
-	* Return: function returns
+	* Return: (0) function success
 */
 int _atoi(char *s)
 {

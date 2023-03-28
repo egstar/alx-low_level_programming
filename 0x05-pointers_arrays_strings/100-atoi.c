@@ -4,6 +4,7 @@
 	*
 	*
 	* @s: Parameter description
+	* Return: function returns
 */
 int _atoi(char *s)
 {

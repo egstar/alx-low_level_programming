@@ -28,3 +28,6 @@
 
 - Task 9
 	- copies string from one pointer to another
+
+- Task 10
+	- convert String to Integer

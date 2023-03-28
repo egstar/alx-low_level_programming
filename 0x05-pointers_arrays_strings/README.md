@@ -25,3 +25,6 @@
 
 - Task 8
 	- Print elements of array
+
+- Task 9
+	- copies string from one pointer to another

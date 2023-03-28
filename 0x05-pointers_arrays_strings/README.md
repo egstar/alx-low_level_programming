@@ -31,3 +31,6 @@
 
 - Task 10
 	- convert String to Integer
+
+- Task 11
+	- Generate random number
